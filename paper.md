@@ -4,7 +4,6 @@ Aircraft measurements Aging of biomass aerosols over West Africa
 #Author
 Gerard Capes
 John Smith
-
 #Introduction
 Bees are too heavy to fly says science. But bees have always gone beyond.
 
@@ -19,4 +18,7 @@ BLABLA
 
 #Methodology
 bees were measured by attaching wee weights to them so they would be stuck 
-to the scale (jOHN 1999)
+to the scale (jOHN 1999
+
+#Results
+Bees can fly

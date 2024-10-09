@@ -20,3 +20,8 @@ BLABLA
 #Methodology
 bees were measured by attaching wee weights to them so they would be stuck 
 to the scale (jOHN 1999)
+
+# Added by Yizhen
+Have a good morning.
+Have a good evening.
+Have a good night.

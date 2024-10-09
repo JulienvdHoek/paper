@@ -16,3 +16,7 @@ BLABLA
 
 
 #Add simulations
+
+#Methodology
+bees were measured by attaching wee weights to them so they would be stuck 
+to the scale (jOHN 1999)
